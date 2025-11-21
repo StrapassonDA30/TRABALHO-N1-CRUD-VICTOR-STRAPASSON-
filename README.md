@@ -1,11 +1,11 @@
 # Sistema CRUD em C – Trabalho N1
 
 Este projeto implementa um sistema CRUD em linguagem C para gerenciar um cadastro de pessoas.  
-Foi desenvolvido como parte da avaliação da disciplina (N1).
+Foi desenvolvido como parte da avaliação da disciplina " Algoritimos " do professor Raul Cesar (N1).
 
 ---
 
-## 👤 Desenvolvedor
+## 👤 Desenvolvido por:
 - *Victor Strapasson*
 
 ---
@@ -21,7 +21,7 @@ Cadastrar novas pessoas com:
 - Idade  
 - Email  
 
-*Não permite CPF duplicado.*
+*Não permite CPF duplicado.
 
 ---
 
